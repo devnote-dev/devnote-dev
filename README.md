@@ -10,4 +10,4 @@ You can find out more about my other projects in my "testing" server (link above
 <h4><li><img src="https://cdn.discordapp.com/avatars/762359941121048616/5095536e2741937b837d40ac369a4a7b.png" alt="radeon_logo" width=30px height=30px align="center"></img> <strong><a href="https://github.com/devnote-dev/Radeon">Radeon Development</a></strong></h4>
 A modern, high-functioning moderation bot with a cross-server anti-raid system in development!
 
-### Thanks for reading 👋
+### Thanks for reading!
