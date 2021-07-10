@@ -7,7 +7,7 @@ My name is Devonte, a "developer" of some sort and photographer of light and nat
 ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Languages I'm Learning
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
