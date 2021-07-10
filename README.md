@@ -1,13 +1,18 @@
-# Hi 👋
+# Hello 👋
+My name is Devonte, a "developer" of some sort and photographer of light and nature. You can find me on Discord by the tag `Devonte#0745`. At the moment I'm hanging around at [my friend's server](https://discord.com/invite/Qx2hyttRsU) if you wish to see me.
 
-You may know me as Devonte or "Devnote" (that meme went on for too long). I code for fun with different languages (Python, JS, TS, and more). You can find me on [Discord](https://discord.gg/XyZQ2U4vA6) or Guilded!
+## Languages I Use
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=for-the-badge&logo=typescript&logoColor=white)
 
-*Note: I'll probably update this properly at a later date*
+## Languages I'm Learning
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## Current (Public) Projects
-You can find out more about my other projects in my "testing" server (link above).
+## Current Projects
+* [Radeon Development](https://github.com/devnote-dev/Radeon)
+* Discorder Message Log Viewer
 
-<h4><li><img src="https://cdn.discordapp.com/avatars/762359941121048616/5095536e2741937b837d40ac369a4a7b.png" alt="radeon_logo" width=30px height=30px align="center"></img> <strong><a href="https://github.com/devnote-dev/Radeon">Radeon Development</a></strong></h4>
-A modern, high-functioning moderation bot with a cross-server anti-raid system in development!
-
-### Thanks for reading!
+There are a few others, but those are yet to be revealed. :)
