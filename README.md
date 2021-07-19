@@ -12,6 +12,7 @@ My name is Devonte, a "developer" of some sort and photographer of light and nat
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## Current Projects
+* [Dashdactyl.py](https://github.com/devnote-dev/dashdactyl.py)
 * [Radeon Development](https://github.com/devnote-dev/Radeon)
 * Discorder Message Log Viewer
 
