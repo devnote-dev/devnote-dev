@@ -10,10 +10,12 @@ My name is Devonte, a "developer" of some sort and photographer of light and nat
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Crystal](https://img.shields.io/badge/Crystal-000100?style=for-the-badge&logo=crystal&logoColor=white)
 
 ## Current Projects
-* [Dashdactyl.py](https://github.com/devnote-dev/dashdactyl.py)
+* [PteroJS](https://github.com/devnote-dev/PteroJS)
+* [TypeDash](https://github.com/devnote-dev/typedash)
+* [dashactyl.py](https://github.com/devnote-dev/dashactyl.py)
 * [Radeon Development](https://github.com/devnote-dev/Radeon)
-* Discorder Message Log Viewer
 
 There are a few others, but those are yet to be revealed. :)
