@@ -11,7 +11,7 @@ My name is Devonte, a "developer" of some sort and photographer of light and nat
 ![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-000100?style=for-the-badge&logo=crystal&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-027a9c?style=for-the-badge&logo=perl&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
 
 ## Current Projects
 * [PteroJS](https://github.com/devnote-dev/PteroJS)
