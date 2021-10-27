@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Devonte, a "developer" of some sort and photographer of light and nature. You can find me on Discord by the tag `Devonte#0745`. You can contact me via [my server](https://discord.com/invite/XyZQ2U4vA6) or [my friend's server](https://discord.com/invite/Qx2hyttRsU).
+My name is Devonte, a "developer" of some sort and photographer of light and nature. You can find me on Discord by the tag `Devonte#0745` as well as contact me via [my server](https://discord.com/invite/XyZQ2U4vA6) or [my friend's server](https://discord.com/invite/Qx2hyttRsU).
 
 ## Languages I Use
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
@@ -15,8 +15,9 @@ My name is Devonte, a "developer" of some sort and photographer of light and nat
 ![Crystal](https://img.shields.io/badge/Crystal-000100?style=for-the-badge&logo=crystal&logoColor=white)
 
 ## Current Projects
-* [PteroJS](https://github.com/devnote-dev/PteroJS)
 * Discorder (private)
+* [PteroJS](https://github.com/devnote-dev/PteroJS)
+* [PteroPy](https://github.com/devnote-dev/PteroPy)
 * [Radeon Development](https://github.com/devnote-dev/Radeon)
 * [dashactyl.py](https://github.com/devnote-dev/dashactyl.py)
 * [TypeDash](https://github.com/devnote-dev/typedash) (discontinued)
