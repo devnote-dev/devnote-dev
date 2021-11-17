@@ -14,10 +14,14 @@ My name is Devonte, a "developer" of some sort and photographer of light and nat
 ![Php](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-000100?style=for-the-badge&logo=crystal&logoColor=white)
 
+## My Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=devnote-dev&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=devnote-dev&layout=compact&hide_border=true&show_icons=true&title_color=c3c6ce&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)
+
 ## Current Projects
 * Discorder (private)
-* [PteroJS](https://github.com/devnote-dev/PteroJS)
-* [PteroPy](https://github.com/devnote-dev/PteroPy)
+* [PteroPackages](https://github.com/PteroPackages)
+* [Crystal Helper](https://github.com/devnote-dev/crystal-helper)
 * [Radeon Development](https://github.com/devnote-dev/Radeon)
 * [dashactyl.py](https://github.com/devnote-dev/dashactyl.py)
 * [TypeDash](https://github.com/devnote-dev/typedash) (discontinued)
