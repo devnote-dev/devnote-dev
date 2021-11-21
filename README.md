@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Devonte, a "developer" of some sort and photographer of light and nature. You can find me on Discord by the tag `Devonte#0745` as well as contact me via [my server](https://discord.com/invite/XyZQ2U4vA6) or [my friend's server](https://discord.com/invite/Qx2hyttRsU).
+My name is Devonte, a "developer" of some sort and photographer of light and nature. You can find me on Discord by the tag `Devonte#0745` as well as contact me via [my server](https://discord.com/invite/XyZQ2U4vA6).
 
 ## Languages I Use
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
