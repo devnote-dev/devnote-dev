@@ -1,5 +1,5 @@
 # Hello 👋
-I'm a programmer and photographer exploring light and nature transformation. You can contact me on Discord (`Devonte#1752`) or use the email on this account. :)
+I'm a developer and photographer exploring light and nature transformation. You can contact me on Discord (`Devonte#1752`) or use the email on this account. :)
 
 ## Languages I Use
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
