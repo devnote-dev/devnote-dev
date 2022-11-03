@@ -1,5 +1,5 @@
 # Hello 👋
-I'm a developer and photographer exploring light and nature transformation. I mostly work on backend projects using one or more of the languages below. You can contact me on Discord (`Devonte#1752`). :)
+I'm a developer and photographer exploring historical transformation. I primarily work on the backend development of open-source community projects and personal projects. Feel free to contact me via the email on my profile (or via Discord if you know me on there).
 
 ## Languages I Use
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
