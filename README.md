@@ -9,13 +9,14 @@ I'm a developer and photographer exploring historical transformation. I primaril
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
+<!-- ![PHP](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white) -->
 
 ## Tools I Use
 ![VSCode](https://img.shields.io/badge/VSCode-1.74.x-017AB9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-2022.3-FD2F5D?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-Ubuntu_22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![LinuxMint](https://img.shields.io/badge/Linux_Mint-Cinnamon_21.1-83C237?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 ## My Stats
-![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=devnote-dev&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=devnote-dev&layout=compact&hide_border=true&show_icons=true&title_color=c3c6ce&text_color=9f9f9f&bg_color=00000000&icon_color=00000000&langs_count=8&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=devnote-dev&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=devnote-dev&layout=compact&hide_border=true&show_icons=true&title_color=c3c6ce&text_color=9f9f9f&bg_color=00000000&icon_color=00000000&langs_count=8&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
